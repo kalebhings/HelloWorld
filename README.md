@@ -2,8 +2,6 @@
 
 This is a basic Hello World program. I created this to demonstrate the use of Visual Studio Code, GitHub, and C# integrated together.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
@@ -14,6 +12,5 @@ This is a basic Hello World program. I created this to demonstrate the use of Vi
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Visual Studio Code & GitHub](https://code.visualstudio.com/Docs/editor/versioncontrol)
 * [C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)
